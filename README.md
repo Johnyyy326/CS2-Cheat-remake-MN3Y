@@ -6,20 +6,6 @@ A community remake project by two developers, built around the MN3Y interface an
 
 **MN3Y** is a remake project created by a friend and me, inspired by an existing CS2 cheat concept. The goal was to recreate and develop the project with our own approach, focusing on the interface, customization, and overall experience.
 
-## Features
-
-- **Visuals** — ESP and player highlighting
-- **Weapon ESP** — Weapon-related visual information
-- **Weapon Icons** — Weapon icons displayed in-game
-- **Distance ESP** — Distance indicators for players
-- **Skeleton ESP** — Skeleton visualization
-- **Glow** — Player glow effects
-- **Chams** — Custom player materials and colors
-- **Visibility Check** — Visibility-based indicators
-- **Player States** — Indicators for actions such as reloading, scoping, planting, and defusing
-- **Customization** — Configurable visual settings and materials
-- **Custom UI** — MN3Y-themed interface
-
 *Features may vary depending on the current build.*
 
 ## Project Status
