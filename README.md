@@ -25,3 +25,4 @@ Original inspiration and third-party components, if applicable, should be credit
 This project is provided for educational and research purposes. Counter-Strike 2 is a trademark of Valve Corporation. This project is not affiliated with, endorsed by, or sponsored by Valve Corporation.
 
 Use at your own risk. Online game modifications may violate the game's terms of service and can result in account penalties.
+<img width="1314" height="694" alt="image" src="https://github.com/user-attachments/assets/084c1bdc-81c1-488e-9191-fdf4d0a27de1" />
