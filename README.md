@@ -24,15 +24,38 @@ Use at your own risk. The developers are not responsible for account penalties, 
 
 This project is a collaborative remake and may receive changes, improvements, or additional features over time.
 
+## Features
+
+| Category | Details |
+|----------|---------|
+| **Aimbot** | Per-weapon profiles, FOV / smoothing / RCS, multipoint hitboxes, visibility check, hitchance, target-switch delays, reaction & first-shot humanization, sticky hitbox |
+| **Triggerbot** | Per-weapon config, seed-based hitchance, silent aim, autowall |
+| **Autofire** | Auto-fires on valid target with hitchance or nospread seed |
+| **ESP** | Box, health, name, skeleton, flags — world-to-screen via copied view matrix |
+| **Chams** | Flat, illuminated, glow, ghost, latex; XQZ, arm & viewmodel support |
+| **Glow** | Per-player + world item glow via DrawGlow property manipulation |
+| **Visuals** | FOV changer, viewmodel offset, thirdperson, antiflash, scope / smoke / decal / particle removal |
+| **World** | Night mode, skybox swap, light & map tint, weather (rain / snow / ash) |
+| **Skinchanger** | Knife, gloves, weapon skins (70 indexed slots), agent models, killfeed spoofing, custom knife model |
+| **Movement** | BHop, autostrafe (mouse + silent), jumpbug |
+| **NadePred** | Grenade throw preview with in-air path and landing radius |
+| **Config** | JSON-based config with per-weapon profile system |
+| **Menu** | ImGui DX11, tabbed layout |
+
+
 ## Credits
 
 Created and remade collaboratively by two developers.
 
 Original inspiration and third-party components, if applicable, should be credited to their respective authors.
 
-## Disclaimer
+## Inject
 
-This project is provided for educational and research purposes. Counter-Strike 2 is a trademark of Valve Corporation. This project is not affiliated with, endorsed by, or sponsored by Valve Corporation.
+Use any manual-map injector. The DLL detects manual-map injection and sets up SEH, static init and the security cookie itself.
 
-Use at your own risk. Online game modifications may violate the game's terms of service and can result in account penalties.
+Known to work with:
+- Process Hacker Native Injector
+- Extreme Injector (manual map mode)
+
+- 
 <img width="1314" height="694" alt="image" src="https://github.com/user-attachments/assets/084c1bdc-81c1-488e-9191-fdf4d0a27de1" />
