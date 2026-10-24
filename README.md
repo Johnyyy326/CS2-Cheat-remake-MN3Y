@@ -1,6 +1,6 @@
 # MN3Y — CS2 Cheat
 
-A community remake project by two developers, built around the MN3Y interface and its visual style. This is not for multiplayer 
+A community remake project by Dev.1Johnny1, built around the MN3Y interface and its visual style. This is not for multiplayer 
 
 ## Disclaimer & Intended Use
 
@@ -14,7 +14,7 @@ Use at your own risk. The developers are not responsible for account penalties, 
 
 ## About
 
-**MN3Y** is a remake project created by a friend and me, inspired by an existing CS2 cheat concept. The goal was to recreate and develop the project with our own approach, focusing on the interface, customization, and overall experience.
+**MN3Y** is a remake project by Dev.1Johnny1, inspired by an existing CS2 cheat concept. The goal was to recreate and develop the project with our own approach, focusing on the interface, customization, and overall experience.
 
 *Features may vary depending on the current build.*
 
@@ -45,7 +45,7 @@ This project is a collaborative remake and may receive changes, improvements, or
 
 ## Credits
 
-Created and remade collaboratively by two developers.
+Created and remade by **Dev.1Johnny1** — [GitHub](https://github.com/Johnyyy326).
 
 Original inspiration and third-party components, if applicable, should be credited to their respective authors.
 
