@@ -56,6 +56,3 @@ Use any manual-map injector. The DLL detects manual-map injection and sets up SE
 Known to work with:
 - Process Hacker Native Injector
 - Extreme Injector (manual map mode)
-
-- 
-<img width="1314" height="694" alt="image" src="https://github.com/user-attachments/assets/084c1bdc-81c1-488e-9191-fdf4d0a27de1" />
